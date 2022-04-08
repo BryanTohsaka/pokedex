@@ -1,0 +1,1 @@
+const pokeCARD = document.querySelector('[data-poke-card]');
